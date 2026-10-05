@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Network-Interconnect"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dedicated-Network-Interconnect?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Network-Interconnect"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dedicated-Network-Interconnect?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Network-Interconnect/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Dedicated-Network-Interconnect?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -55,9 +55,9 @@ Dedicated Network Interconnect solutions establish private, high-bandwidth, low-
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending). Star badges link directly to each repository's stargazers page.*
+*Sorted by GitHub Stars_Count (Descending). Stars_Badges link directly to each repository's stargazers page.*
 
-| Project | Description | Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :---: |
 | **[FRRouting (FRR)](https://github.com/FRRouting/frr)** | IP routing protocol suite for Linux and Unix platforms implementing BGP, OSPF, RIP, IS-IS, and PBR for cloud interconnect peering. | [![Stars](https://img.shields.io/github/stars/FRRouting/frr?style=social&color=white)](https://github.com/FRRouting/frr/stargazers) |
 | **[WireGuard](https://github.com/WireGuard/wireguard-linux)** | Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography for lightweight site-to-site cloud interconnects. | [![Stars](https://img.shields.io/github/stars/WireGuard/wireguard-linux?style=social&color=white)](https://github.com/WireGuard/wireguard-linux/stargazers) |
